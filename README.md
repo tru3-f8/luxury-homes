@@ -1,6 +1,6 @@
 # About
 
-This is a web/mobile responsive website built with React.js, CSS styled components, useState, useEffect, useRef, and javascript to create the layout on the website.
+This is built with React.js, CSS styled components, useState, useEffect, useRef, and javascript to create a web/mobile responsive website.
 
 ## Dependencies
 - react-router-dom
